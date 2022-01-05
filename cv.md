@@ -1,8 +1,10 @@
 # Nadezhda Podolshetskaya    
 ### Contacts  
+Location: Minsk, Belarus
 tel:+375295568880  
 e-mail: knv2018@mail.ru  
-https://github.com/Nadezdaa1  
+https://github.com/Nadezdaa1
+Discord:Nadezhda#5060    
 __________________
 
 ### About me
