@@ -1,0 +1,105 @@
+.body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(252, 232, 142);
+}
+ .wrapper{
+    padding: 30px;
+}
+.header{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 255, 254);
+}
+.container{
+    display: flex;
+}
+.table {
+    border: 0px;
+    border-spacing: 0px;
+}
+ .gray-th {
+    background-color: rgb(110, 106, 106);
+    color:rgb(250, 215, 100);;
+    min-width: 294px;
+    border-color: inherit;
+    text-align: center;
+    vertical-align: top;
+    padding: 20px;
+ }
+.yellow-th {
+    background-color: rgb(250, 215, 100); 
+    color: rgb(110, 106, 106);
+    width: calc(100vw - 252px);
+    text-align: left;
+    padding: 10px;
+}
+     
+.yellow{
+    background-color: rgb(250, 215, 100);
+    flex-direction: column;
+    flex: 0 0 254px;
+}
+.grey{
+    background-color: rgb(110, 106, 106);
+    color: rgb(250, 215, 100);
+    padding: 30px;
+    flex: 1 0 0;
+}
+     
+.font-yellow{
+    color: rgb(250, 215, 100);
+    background-color: rgb(110, 106, 106);
+}
+.font-grey{
+    color: rgb(110, 106, 106);
+}
+     
+.img-size{
+    padding: 70px;
+    width: 194px; height: 268px; 
+}
+.main{ 
+    padding: px;
+    margin: 0px;
+}
+     
+.main-grey{
+    background-color: rgb(110, 106, 106);
+    flex-direction: column;
+    flex: 0 0 334px;
+}
+.main-yellow{
+    background-color: rgb(250, 215, 100);
+    color: rgb(110, 106, 106);
+    padding: 30px;
+    flex: 1 0 0;
+}
+.footer{ 
+    background-color: rgb(250, 215, 100);
+    color: rgb(110, 106, 106);
+    width: auto;
+    height: 70px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.year {
+    padding: 20px;
+    text-align: left; 
+}
+.github {
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    padding: 20px;
+    text-align: center;
+    height: 40px;
+}
+.logoimg{
+        width: 70px;
+        height: 70px;
+}
+    
+    
+     
